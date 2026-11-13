@@ -96,6 +96,11 @@ footer {
         gap: 20px;
     }
 
+    .row {
+        display: flex;
+        gap: 20;
+    }
+
     .project-card {
         background-color: #f8fafc;
         border: 1px solid #e2e8f0;
