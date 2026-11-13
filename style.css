@@ -123,13 +123,14 @@ footer {
         text-decoration: none;
     }
 
-    .round-photo {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        object-fit: cover;
-        object-position: center top;
-    }
+}
+
+.round-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center top;
 }
 
 
