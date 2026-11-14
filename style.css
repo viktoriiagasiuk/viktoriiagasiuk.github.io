@@ -13,11 +13,14 @@ body {
 
 /* Header */
 header {
-    background-color: #1e293b;
+    background-image: url('image.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
     color: white;
     text-align: center;
     padding: 50px 30px;
 }
+
 
 header h1 {
     margin-bottom: 10px;
