@@ -555,6 +555,13 @@ footer a {
         padding: 65px 25px;
     }
 
+   .logo {
+       color: white;
+       font-size: 22px;
+       font-weight: bold;
+       letter-spacing: 1px;
+   }
+
     .hero {
         flex-direction: column-reverse;
         text-align: center;
